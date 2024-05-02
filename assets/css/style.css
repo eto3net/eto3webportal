@@ -1,0 +1,20 @@
+.masthead {
+  background-image: url('../../assets/img/bg-header.svg');
+  height: 100%;
+}
+
+.mb-5 span {
+  font-size: 12rem;
+  line-height: 12rem;
+}
+
+.mb-1 {
+  font-size: 6rem;
+  font-style: normal;
+  line-height: 6rem;
+}
+
+.logo {
+  margin-bottom: 3rem;
+}
+
